@@ -1,0 +1,5 @@
+A file in feature1 branch
+
+test1
+test2
+
