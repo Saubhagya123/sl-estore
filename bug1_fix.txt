@@ -1,0 +1,3 @@
+this is fix to bug 1
+
+here it goes.
